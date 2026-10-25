@@ -1,0 +1,4 @@
+segment,customers,sales_microgbp,median_recency_days,median_orders,median_spend_gbp,sales_gbp,sales_share
+Active repeat,1271,1040946312000,26.0,3.0,775.18,1040946.312,0.11712859733754785
+High-value repeat,972,6555970530000,16.0,8.0,3159.065,6555970.53,0.7376861068750299
+Occasional or inactive,2095,1290292052000,150.0,1.0,326.0,1290292.052,0.14518529578742229
