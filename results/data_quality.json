@@ -1,0 +1,15 @@
+{
+  "source_sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d",
+  "source_rows": 541909,
+  "purchase_rows": 524878,
+  "missing_customer_id_source_rows": 135080,
+  "missing_customer_id_purchase_rows": 132186,
+  "identified_purchase_sales_gbp": 8887208.894,
+  "purchase_sales_without_deduplication_gbp": 10666684.54,
+  "first_timestamp": "2010-12-01 08:26:00",
+  "last_timestamp": "2011-12-09 12:50:00",
+  "segmentation_snapshot": "2011-12-10",
+  "active_window_days": 90,
+  "high_value_spend_threshold_gbp": 1660.5975,
+  "checks": "Row exclusions, country/month/order sales, segment counts and sales reconciled."
+}
