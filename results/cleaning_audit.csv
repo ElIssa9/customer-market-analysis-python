@@ -1,0 +1,6 @@
+step,removed,remaining
+Original product lines,0,541909
+Exact repeated lines removed (assumption),5268,536641
+Cancellation invoices excluded,9251,527390
+Non-positive quantity excluded,1336,526054
+Non-positive unit price excluded,1176,524878
